@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: linear-gradient(#3fed52, #fe34fd);
+}
+#myCarousel{
+    background: green;
+}
+#app{
+    background: crimson;
+}
+img{
+    width: 300px;
+    margin-top: 15px;
+}
+p{
+    color: white;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.line{
+    background: black;
+    height: 10px;
+    width: 1000px;
+    margin: auto;
+}
+h1{
+    color: black;
+}
